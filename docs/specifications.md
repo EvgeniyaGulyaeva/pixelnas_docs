@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Specifications
+# Спецификация
 
 <a target="\_blank" href={require('/static/files/PixelNAS-brief-Rus.pdf').default}> **Download PDF** </a>
 
