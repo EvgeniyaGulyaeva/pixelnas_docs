@@ -129,4 +129,14 @@ const config = {
     }),
 };
 
+module.exports = {
+  // ...
+  url: 'https://EvgeniyaGulyaeva.github.io', 
+  baseUrl: '/',
+  projectName: 'pixelnas_docs',
+  organizationName: 'EvgeniyaGulyaeva',
+  trailingSlash: false,
+  // ...
+};
+
 export default config;
