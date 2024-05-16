@@ -16,7 +16,7 @@ const config = {
   url: 'https://EvgeniyaGulyaeva.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/pixelnas_docs/',
   projectName: 'pixelnas_docs',
   organizationName: 'EvgeniyaGulyaeva',
   trailingSlash: false,
